@@ -1,2 +1,2 @@
-# My-secondrepo
-Student portal demo
+Rajesh Narendra 
+BCA-DataScience
